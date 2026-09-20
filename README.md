@@ -34,3 +34,4 @@ domain, e.g. `aaravanddiya.com`, then point your domain's DNS at GitHub Pages.
 ## Social share preview
 For a nice WhatsApp/Instagram link card, add a cover photo and set the
 `og:image` URL in the `<head>` of `index.html` once the site is live.
+"# wedding" 
